@@ -79,3 +79,17 @@ console.log(8/2);       //4
 console.log(12/5);      //2.4
 console.log(10%3);      //1
 console.log(2**3);      //8
+
+let a = 3;
+let b = 2;
+let c = a%b;
+let d = a**b;
+console.log(c);     //1
+console.log(d);     //9
+
+let a = prompt("Enter number: ");       //5
+let b = prompt("Enter number: ");       //3
+let c = a%b;
+let d = a**b;
+console.log(c);     //2
+console.log(d);     //125
