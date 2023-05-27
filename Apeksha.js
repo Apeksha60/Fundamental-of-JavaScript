@@ -115,3 +115,29 @@ function remainder(num1,num2){
     return num1%num2;
 }
 console.log(remainder(20,6));       //2
+
+//Advance Functions
+function add(num1,num2){
+    return num1 + num2;
+}
+function sub(num1,num2){
+    return num1 - num2;
+}
+function multiplication(num1,num2){
+    return num1 * num2;
+}
+function divide(num1,num2){
+    return num1 / num2;
+}
+function remainder(num1,num2){
+    return num1 % num2;
+}
+function exponentiation(num1,num2){
+    return num1 ** num2;
+}
+console.log(add(20,6));     //26
+console.log(sub(20,6));     //14
+console.log(multiplication(20,6));      //120
+console.log(divide(20,6));      //3.3333333333333335
+console.log(remainder(20,6));       //2
+console.log(exponentiation(20,6));      //64000000
