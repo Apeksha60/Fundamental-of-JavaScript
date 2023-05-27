@@ -109,3 +109,9 @@ console.log("Hello,"+ "World");     //Hello,World
 console.log((-1)*(-10)*(-20));      //-200
 console.log(2*(4+5*(6+3)));     //98
 console.log(36/3+4*3);      //24
+
+//Functions
+function remainder(num1,num2){
+    return num1%num2;
+}
+console.log(remainder(20,6));       //2
