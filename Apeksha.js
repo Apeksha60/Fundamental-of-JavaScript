@@ -141,3 +141,9 @@ console.log(multiplication(20,6));      //120
 console.log(divide(20,6));      //3.3333333333333335
 console.log(remainder(20,6));       //2
 console.log(exponentiation(20,6));      //64000000
+
+//function
+function printCapitals(city,country) {
+    console.log(city + " is the capital of " + country);
+}
+printCapitals("Colombo","Sri Lanka");       //Colombo is the capital of Sri Lanka
