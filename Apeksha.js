@@ -103,3 +103,9 @@ console.log((1+3)*(4-2));       //8
 console.log(+7);        //7
 console.log(-9);        //-9
 console.log(-(100+5));      //-105
+
+//Exercise
+console.log("Hello,"+ "World");     //Hello,World
+console.log((-1)*(-10)*(-20));      //-200
+console.log(2*(4+5*(6+3)));     //98
+console.log(36/3+4*3);      //24
