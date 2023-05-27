@@ -61,3 +61,9 @@ console.log("Sum =" + sum);
 
 console.log("Apeksha");
 
+// typeof operator
+console.log(typeof(9));     //number
+console.log(typeof("Apeksha"));     //string
+console.log(typeof(0.1));       //number
+console.log(typeof(true));      //boolean
+console.log(typeof('9'));       //string
