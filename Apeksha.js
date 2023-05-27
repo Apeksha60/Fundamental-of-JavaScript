@@ -98,3 +98,8 @@ console.log(d);     //125
 console.log(1+3*4-2);       //11
 console.log(1+3)*(4-2);     //4 NaN
 console.log((1+3)*(4-2));       //8
+
+//Unary operators (+) , (-)
+console.log(+7);        //7
+console.log(-9);        //-9
+console.log(-(100+5));      //-105
