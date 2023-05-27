@@ -93,3 +93,8 @@ let c = a%b;
 let d = a**b;
 console.log(c);     //2
 console.log(d);     //125
+
+//Writing complex expressions
+console.log(1+3*4-2);       //11
+console.log(1+3)*(4-2);     //4 NaN
+console.log((1+3)*(4-2));       //8
